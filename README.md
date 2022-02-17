@@ -1,0 +1,2 @@
+# String-implementation-using-doubly-linked-list
+First, implemented a doubly linked list with dummy nodes data structure, in which each node contains data and two pointers to the previous and the next nodes. The linked list data structure includes two pointers that points to the dummy head and the dummy tail nodes of the linked list. The details of the structure are explained further in the pdf file. Then, used this specialized linked list structure to implement strings.
